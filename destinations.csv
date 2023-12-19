@@ -1,0 +1,86 @@
+id,name,type,village,subdistrict,regency,country,type_label,new_rating,User_id
+1,Monumen Nasional,Museum,Gambir,Gambir,Kota Administrasi Jakarta Pusat,Indonesia,1,95,145
+2,Museum Fatahillah,Museum,Pinangsia,Gambir,Kota Administrasi Jakarta Pusat,Indonesia,1,56,103
+3,Museum Jenderal Ahmad Yani,Museum,Menteng,Menteng ,Kota Administrasi Jakarta Pusat,Indonesia,1,71,19
+4,Museum Sudirman ,Museum,Potrobangsan,Magelang Utara ,Kota Magelang,Indonesia,1,66,205
+5,Museum Angkut,Museum,Ngaglik,Batu,Kabupaten Malang,Indonesia,1,70,116
+6,Museum Pendaratan Pesawat Ampibi,Museum,Iluta,Batudaa,Kabupaten Gorontalo,Indonesia,1,60,255
+7,Museum Mandar Majene,Museum,Pangali Ali,Banggae,Kabupaten Majene,Indonesia,1,86,4
+8,Museum Perjuangan Rakyat,Museum,Wenang Utara,Wenang,Kota Manado,Indonesia,1,97,207
+9,Museum Sulawesi Tengah,Museum,Kamonji,Palu Barat,Kota Palu,Indonesia,1,66,55
+10,Museum Balla Lompoa,Museum,Sungguminasa,Somba Upu,Kabupaten Gowa,Indonesia,1,68,146
+11,Museum Siwalima,Museum,Nusaniwe,Nusaniwe,Kota Ambon,Indonesia,1,98,177
+12,Museum Fatahillah,Museum,Pinangsia,Gambir,Kota Administrasi Jakarta Pusat,Indonesia,1,61,55
+13,Museum Jenderal Ahmad Yani,Museum,Menteng,Menteng ,Kota Administrasi Jakarta Selatan,Indonesia,1,100,9
+14,Museum Wayang Jakarta,Museum,Pinangsia,Gambir,Kota Administrasi Jakarta Pusat,Indonesia,1,100,71
+15,Museum Kereta Api Ambarawa,Museum,Pojoksari,Ambarawa,Kabupaten Semarang,Indonesia,1,86,86
+16,Museum Sudirman ,Museum,Potrobangsan,Magelang Utara ,Kota Magelang,Indonesia,1,90,277
+17,Museum Angkut,Museum,Ngaglik,Batu,Kabupaten Malang,Indonesia,1,61,18
+18,Ancol,Beach,Pademangan,Pademangan,Kota Administrasi Jakarta Utara,Indonesia,2,50,95
+19,Pantai Parangtritis,Beach,Parangtritis,Kretek,Kabupaten Bantul,Indonesia,2,92,120
+20,Pantai Pulang Sawal,Beach,Jl Pantai Selatan Jawa,Tepus,Kabupaten Gunung Kidul,Indonesia,2,63,242
+21,Pantai Klayar,Beach,Sendang,Donorojo,Kabupaten Pacitan,Indonesia,2,80,162
+22,Kelingking Beach Nusa Penida,Beach,Bunga Mekar,Nusa Penida,Kabupaten Klungkung,Indonesia,2,97,88
+23,Kelingking Beach Nusa Penida,Beach,Bunga Mekar,Nusa Penida,Kabupaten Klungkung,Indonesia,2,97,145
+24,Pink Beach Lombok,Beach,Sekaroh,Jerowaru,Kabupaten Lombok Timur,Indonesia,2,71,285
+25,Pantai Kemala,Beach,Prapatan,Balikpapan,Balikpapan,Indonesia,2,96,196
+26,Pantai Kijing,Beach,Teluk Keramat,Kubu Raya,Kalimantan Barat,Indonesia,2,54,97
+28,Pantai Dulanga,Beach,Bongo,Batudaa Pantai,Kabupaten Gorontalo,Indonesia,2,51,57
+29,Pantai Rewata'a Pamboang,Beach,Lalampanua,Pamboang,Kabupaten Majene,Indonesia,2,87,121
+30,Pantai Walengkabola,Beach,Tongkuno,Tongkuno,Kabupaten Muna,Indonesia,2,54,156
+31,Pantai Katembe,Beach,Madongka,Lakudo,Kabupaten Buton Tengah,Indonesia,2,81,44
+32,Pantai Maahas,Beach,Luwuk Selatan,Luwuk Selatan,Kabupaten Banggai,Indonesia,2,58,73
+33,Pantai Losari,Beach,Losari,Ujung Pandang,Kota Makassar,Indonesia,2,74,13
+34,Pantai Netsapa,Beach,Suli,Salahutu,Kabupaten Maluku Tengah,Indonesia,2,62,266
+35,Pantai Patawana,Beach,Kotam,Fakfak,Kabupaten Fakfak,Indonesia,2,84,28
+36,Candi Borobudur,Historical,Borobudur,Borobudur,Kabupaten Magelang,Indonesia,3,61,170
+37,Candi Prambanan,Historical,Bokoharjo,Prambanan,Kabupaten Sleman,Indonesia,3,80,297
+38,Rumah Adat Dulohupa,Historical,Limba U Ii,Kota Selatan,Kota Gorontalo,Indonesia,3,94,38
+39,Rumah Adat Mamuju,Historical,Rimuku,Mamuju,Kabupaten Mamuju,Indonesia,3,75,32
+40,Taman Purbakala Waruga,Historical,Sawangan,Airmadidi,Kabupaten Minahasa Utara,Indonesia,3,59,138
+41,Istana Malige,Historical,Tomba,Wolio,Kota Bau Bau,Indonesia,3,93,25
+42,Situs Megalitik Pokekea,Historical,Baleura,Lore Tengah,Kabupaten Poso,Indonesia,3,94,67
+43,Bori' Kalimbuang,Historical,Bori,Sesean,Kabupaten Toraja Utara,Indonesia,3,67,66
+44,Patung Martha Christina Tiahahu,Historical,	Amantelu,Sirimau,Kota Ambon,Indonesia,3,64,148
+45,Monumen Douglas Mac Arthur,Historical,Hinekombe,Sentani,Kabupaten Jayapura,Indonesia,3,69,194
+46,Monumen Nasional,Landmark,Gambir,Gambir,Kota Administrasi Jakarta Pusat,Indonesia,4,94,40
+47,Tugu Jogja,Landmark,Gowongan,Jetis,Kota Yogyakarta,Indonesia,4,83,88
+48,Menara Keagungan Limboto,Landmark,Kayubulan,Limboto,Kabupaten Gorontalo,Indonesia,4,96,138
+49,Monumen Yesus Memberkati,Landmark,Winangun Satu,Malalayang,Kota Manado,Indonesia,4,97,277
+50,Patung Yesus Penebus,Landmark,Dorbolaang,Lembeh Selatan,Kota Bitung,Indonesia,4,70,220
+51,Monumen Nosarara Nosabatutu,Landmark,Tondo,Mantikulore,Kota Palu,Indonesia,4,58,213
+52,Patung Yesus Memberkati,Landmark,Buntu Burake,Makale,Kabupaten Tana Toraja,Indonesia,4,89,31
+53,Hutan Pinus Pengger,Natural,Dlingo,Dlingo,Kabupaten Bantul,Indonesia,5,55,27
+54,Gunung Bromo,Natural,Podokoyo,Tosari,Kabupaten Pasuruan,Indonesia,5,69,75
+55,Gunung Kalimutu,Natural,Woloara,Kelimutu,Kabupaten Ende,Indonesia,5,86,117
+56,Gunung Rinjani,Natural,Sembalun Lawang,Sembalun,Kabupaten Lombok Timur,Indonesia,5,94,49
+57,Pulau Kaniungan Besar,Natural,Kuranji,Sambas,Sambas,Indonesia,5,63,178
+58,Pulau Maratua,Natural,Tlk. Harapan,Maratua,Kabupaten Berau,Indonesia,5,66,91
+59,Pulau Lemukutan,Natural,Landak,Landak,Kalimantan Barat,Indonesia,5,64,283
+60,Pulau Randayan,Natural,Sambas,Sambas,Kalimantan Barat,Indonesia,5,97,71
+61,Gunung Palung National Park,Natural,Ketapang,Ketapang,Kalimantan Barat,Indonesia,5,88,224
+62,Bukit Meratus,Natural,Tanah Bumbu,Tanah Bumbu,Kalimantan Selatan,Indonesia,5,53,82
+63,Bukit Rimpi,Natural,Tampang,Pelaihari,Kabupaten Tanah Laut,Indonesia,5,97,144
+64,Bukit Senayan,Natural,Bulo,Bulo,Kabupaten Polewali Mandar,Indonesia,5,93,258
+65,Goa Air Kontamale,Natural,Pongo,Wangi-Wangi,Kabupaten Wakatobi,Indonesia,5,97,213
+66,Pulau Rowa,Natural,	Dullah Laut,Pulau Dullah Utara,Kota Tual,Indonesia,5,67,140
+67,Kepulauan Raja Ampat,Natural,Waisilip,Waigeo ,Kabupaten Raja Ampat,Indonesia,5,75,143
+68,Air Terjun Kali Pancur ,Waterfall,Nogosaren,Getasan ,Kabupaten Semarang,Indonesia,6,79,210
+69,Lokawisata Baturraden,Waterfall,Karangmangu,Baturaden,Kabupaten Banyumas,Indonesia,6,88,292
+70,Air Terjun Tumpak Sewu,Waterfall,Sidomulyo,Pronojiwo,Kabupaten Lumajang,Indonesia,6,94,83
+71,Cunca Wulang Waterfall,Waterfall,Pota Wangka,Boleng,Kabupaten Manggarai Barat,Indonesia,6,86,129
+72,Air Terjun Sendang Gile,Waterfall,Senaru,Bayan,Kabupaten Lombok Utara,Indonesia,6,86,13
+74,Air Terjun Limbong Kamandang,Waterfall,Kurrak,Tapango,Kabupaten Polewali Mandar,Indonesia,6,57,97
+75,Air Terjun Ubadari,Waterfall,Ubadari,Kramongmongga,Kabupaten Fakfak,Indonesia,6,84,193
+76,Lomban Waterpark,Wahana,Tateli,Mandolang,Kabupaten Minahasa,Indonesia,7,77,297
+77,Danau Ranu Agung,Lake,Ranu Agung,Tiris,Kabupaten Lumajang,Indonesia,8,81,291
+78,Danau Ranu Agung,Lake,Ranu Agung,Tiris,Kabupaten Lumajang,Indonesia,8,74,104
+79,Danau Labuan Cermin,Lake,Biduk-Biduk,Biduk-Biduk,Berau,Indonesia,8,89,138
+80,Danau Ubur-ubur,Lake,Kakaban,Berau,Berau,Indonesia,8,78,1
+81,Danau Sentarum,Lake,Kapuas Hulu,Kapuas Hulu,Kalimantan Barat,Indonesia,8,68,186
+82,Danau Limboto,Lake,Bulalo,Kwandang,Kabupaten Gorontalo Utara,Indonesia,8,56,157
+83,Danau Biru Kolaka Utara,Lake,Walasiho,Wawo,Kabupaten Kolaka Utara,Indonesia,8,73,113
+84,Danau Poso,Lake,Sangele,Pamona Puselemba,Kabupaten Poso,Indonesia,8,85,281
+85,Danau Hijau Balocci,Lake,Balocci Baru,Balocci,Kabupaten Pangkajene Kepulauan,Indonesia,8,99,100
+86,Danau Rana,Lake,Wakolo,Taniwel,Kabupaten Seram Bagian Barat,Indonesia,8,77,77
+87,Danau Framu Ayamuru,Lake,Framu,Ayamaru,Kabupaten Maybrat,Indonesia,8,51,157
