@@ -209,6 +209,32 @@ def logout_user():
             'message': str(e)
         }), 500
 
+# Update User Data by Email
+@app.route('/user/<email>', methods=['PUT'])
+def update_user_data(email):
+    try:
+        data = request.get_json()
+        gender = data['gender']
+        birth_date = data['birth_date']
+        photo = data['photo']
+        telephone = data['telephone']
+        whatsapp = data['whatsapp']
+        lon = data['lon']
+        lat = data['lat']
+        query = 'UPDATE data_pengguna SET gender = %s, birth_date = %s, photo = %s, telephone = %s, whatsapp = %s, lon = %s, lat = %s WHERE email = %s'
+        query_database(query, (gender, birth_date, photo, telephone, whatsapp, lon, lat, email))
+        return jsonify({
+            'statusCode': 200,
+            'message': 'Update data successfully',
+            'data': {'email': email}
+        }), 200
+    except Exception as e:
+        return jsonify({
+            'statusCode': 500,
+            'error': 'Internal Server Error',
+            'message': str(e)
+        }), 500
+
 # Get All Destination Data
 @app.route('/destinations', methods=['GET'])
 def get_destinations():
